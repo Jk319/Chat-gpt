@@ -33,7 +33,7 @@ export function ThreadListSidebar({
                   </div>
                   <div className="aui-sidebar-header-heading mr-6 flex flex-col gap-0.5 leading-none">
                     <span className="aui-sidebar-header-title font-semibold">
-                      Mini Chatgpt
+                      Jatin ❤️
                     </span>
                   </div>
                 </Link>
@@ -59,7 +59,7 @@ export function ThreadListSidebar({
                 </div>
                 <div className="aui-sidebar-footer-heading flex flex-col gap-0.5 leading-none">
                   <span className="aui-sidebar-footer-title font-semibold">
-                    Jatin Kushwaha
+                    Jatin Kushwaha 
                   </span>
                   <span>settings</span>
                 </div>
