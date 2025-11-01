@@ -42,7 +42,7 @@ export const Assistant = () => {
                 <BreadcrumbList>
                   <BreadcrumbItem className="hidden md:block">
                     <BreadcrumbLink
-                      href="https://www.assistant-ui.com/docs/getting-started"
+                      href="https://github.com/Jk319/Chat-gpt"
                       target="_blank"
                       rel="noopener noreferrer"
                     >
