@@ -95,7 +95,7 @@ const ThreadWelcome: FC = () => {
             exit={{ opacity: 0, y: 10 }}
             className="aui-thread-welcome-message-motion-1 text-2xl font-semibold"
           >
-            Hello Jii I am J.AI!
+            Hello Jii, I am JK.AI !
           </m.div>
           <m.div
             initial={{ opacity: 0, y: 10 }}
@@ -104,7 +104,7 @@ const ThreadWelcome: FC = () => {
             transition={{ delay: 0.1 }}
             className="aui-thread-welcome-message-motion-2 text-2xl text-muted-foreground/65"
           >
-            How can I help you Gyus ?
+            How can I help you Guys ?
           </m.div>
         </div>
       </div>
